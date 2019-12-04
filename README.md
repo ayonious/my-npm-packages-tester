@@ -1,4 +1,4 @@
-# 🚧🔬👷Testing all my npm packages
+# 🔬👷Testing all my npm packages
 
 [![Build Status](https://travis-ci.org/ayonious/my-npm-packages-tester.svg?branch=master)](https://travis-ci.org/ayonious/my-npm-packages-tester)
 
