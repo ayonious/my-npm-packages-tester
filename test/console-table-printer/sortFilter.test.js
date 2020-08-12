@@ -5,7 +5,6 @@ describe('Example: Print a simple Table without table instance creation', () => 
     //Create a table
 
     const t = new Table({
-      style: 'fatBorder', //style of border of the table, (optional)default = thinBorder
       columns: [
         { name: 'column1', alignment: 'left', color: 'red' }, //with alignment and color
         { name: 'column2', alignment: 'right' },

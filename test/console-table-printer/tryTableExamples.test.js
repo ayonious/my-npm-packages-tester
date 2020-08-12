@@ -1,10 +1,9 @@
 const { printTable, Table } = require('console-table-printer');
 
 describe('Example: Print a simple Table without table instance creation', () => {
-  it(`complex tables`, function() {
+  it(`complex tables`, function () {
     //Create a table
     const t = new Table({
-      style: 'fatBorder', //style of border of the table
       columns: [
         { name: 'column1', alignment: 'left', color: 'red' }, //with alignment and color
         { name: 'column2', alignment: 'right' },

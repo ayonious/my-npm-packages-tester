@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "console-table-printer": "1.10.0",
-    "nested-rules-engine": "1.1.102"
+    "console-table-printer": "2.3.8",
+    "nested-rules-engine": "1.1.103"
   },
   "devDependencies": {
     "husky": "^4.2.5",
