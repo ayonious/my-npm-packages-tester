@@ -1,6 +1,6 @@
 {
   "name": "console-table-printer-test",
-  "version": "0.0.286",
+  "version": "0.0.287",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "console-table-printer": "2.4.22",
+    "console-table-printer": "2.4.23",
     "nested-rules-engine": "1.1.127"
   },
   "devDependencies": {
