@@ -1,6 +1,6 @@
 {
   "name": "console-table-printer-test",
-  "version": "0.0.311",
+  "version": "0.0.312",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "devDependencies": {
     "husky": "^4.3.0",
     "jest": "^26.6.3",
-    "prettier": "^2.1.2",
+    "prettier": "^2.2.0",
     "pretty-quick": "^3.1.0",
     "ts-node": "^9.0.0"
   }
