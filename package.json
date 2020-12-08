@@ -10,14 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "console-table-printer": "2.7.3",
+    "console-table-printer": "2.7.5",
     "nested-rules-engine": "1.1.138"
   },
   "devDependencies": {
-    "husky": "^4.3.0",
+    "husky": "^4.3.5",
     "jest": "^26.6.3",
     "prettier": "^2.2.1",
     "pretty-quick": "^3.1.0",
-    "ts-node": "^9.1.0"
+    "ts-node": "^9.1.1"
   }
 }
