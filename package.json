@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "console-table-printer": "2.7.5",
-    "nested-rules-engine": "1.1.138"
+    "nested-rules-engine": "1.1.138",
+    "simple-wcswidth": "^1.0.0"
   },
   "devDependencies": {
     "husky": "^4.3.5",
