@@ -1,8 +1,9 @@
-const { wcswidth } = require('simple-wcswidth');
+const { wcswidth, wcwidth } = require('simple-wcswidth');
+
 
 describe('Example: width calculation', () => {
   it(`Simple`, function () {
-    // Step1: Define your conditional rules
     expect(wcswidth('asdf')).toBe(4);
+    expect(wcwidth('请'.charCodeAt(0))).toBe(2);
   });
 });
