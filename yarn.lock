@@ -3206,6 +3206,11 @@ simple-wcswidth@^1.0.0:
   resolved "https://registry.yarnpkg.com/simple-wcswidth/-/simple-wcswidth-1.0.0.tgz#4f1b000577507c268856198d5d94bc8749cfe45c"
   integrity sha512-gdLYVBke6eUDOre0ZB8DjQgNvsbNUHV9SMtJ/K/9/fj925nNEjwPr9naNpmHjqydwJUNmg43r1ec3usiSE0Z5w==
 
+simple-wcswidth@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/simple-wcswidth/-/simple-wcswidth-1.0.1.tgz#8ab18ac0ae342f9d9b629604e54d2aa1ecb018b2"
+  integrity sha512-xMO/8eNREtaROt7tJvWJqHBDTMFN4eiQ5I4JRMuilwfnFcV5W9u7RUkueNkdw0jPqGMX36iCywelS5yilTuOxg==
+
 sisteransi@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/sisteransi/-/sisteransi-1.0.5.tgz#134d681297756437cc05ca01370d3a7a571075ed"
