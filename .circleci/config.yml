@@ -17,5 +17,3 @@ jobs:
           paths:
             - node_modules
           key: deps-hash-{{ checksum "yarn.lock" }}
-
-      - run: yarn build
