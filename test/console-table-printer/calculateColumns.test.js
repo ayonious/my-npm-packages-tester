@@ -1,10 +1,11 @@
-const { Table } = require('console-table-printer');
+const { printTable, Table } = require('console-table-printer');
 const chalk = require('chalk');
 
 const p = new Table({
   columns: [
     { name: "red_amount", color: "red" },
     { name: "blue_amount", color: "blue" },
+    { name: "amount", color: "blue" },
   ],
   computedColumns: [
     // creating new columns based on other column vals
