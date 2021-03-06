@@ -11,10 +11,11 @@ jobs:
             - deps-hash- # used if checksum fails
 
       - run: yarn install
+      - run: yarn test
 
       - save_cache:
           paths:
             - node_modules
           key: deps-hash-{{ checksum "yarn.lock" }}
 
-      - run: yarn test
+      - run: yarn build
