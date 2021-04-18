@@ -1,6 +1,6 @@
 {
   "name": "my-npm-packages-tester",
-  "version": "0.0.327",
+  "version": "0.0.328",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "console-table-printer": "2.8.2",
-    "nested-rules-engine": "1.1.140",
+    "nested-rules-engine": "1.1.142",
     "simple-wcswidth": "^1.0.1"
   },
   "devDependencies": {
