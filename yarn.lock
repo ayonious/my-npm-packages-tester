@@ -928,10 +928,18 @@ chalk@^3.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-chalk@^4.0.0, chalk@^4.1.0:
+chalk@^4.0.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.0.tgz#4e14870a618d9e2edd97dd8345fd9d9dc315646a"
   integrity sha512-qwx12AxXe2Q5xQ43Ac//I6v5aXTipYrSESdOgzrN+9XjgEpyjpKuvSGaN4qE93f7TQTlerQQ8S+EQ0EyDoVL1A==
+  dependencies:
+    ansi-styles "^4.1.0"
+    supports-color "^7.1.0"
+
+chalk@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.1.tgz#c80b3fab28bf6371e6863325eee67e618b77e6ad"
+  integrity sha512-diHzdDKxcU+bAsUboHLPEDQiw0qEe0qd7SYUn3HgcFlWgbDcfLGswOHYeGrHKzG9z6UYf01d9VFMfZxPM1xZSg==
   dependencies:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
@@ -1029,10 +1037,10 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=
 
-console-table-printer@2.8.2:
-  version "2.8.2"
-  resolved "https://registry.yarnpkg.com/console-table-printer/-/console-table-printer-2.8.2.tgz#1f8f8f53ebf9b82d1d8955e16c9ab3b3bbe1cf43"
-  integrity sha512-FwKE3l468O2mvFQsdttwuuTKnpTquHRMVw9KWuNhIUhj8qhkDbbrJzI9hduVFSchIp22LR5cEh+KIizWTWzZ2g==
+console-table-printer@2.9.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/console-table-printer/-/console-table-printer-2.9.0.tgz#5d75374bc94ae57048587604829cb914b282a088"
+  integrity sha512-20o73riqnclLYJt5ggNqP2ZjtgL5OxJPWzTVi3LyVFVtubMH0XN+oOn9outL1XI5ldJgPcjdMAWc92vRscHAKA==
   dependencies:
     simple-wcswidth "^1.0.1"
 
@@ -1623,10 +1631,10 @@ human-signals@^1.1.1:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-1.1.1.tgz#c5b1cd14f50aeae09ab6c59fe63ba3395fe4dfa3"
   integrity sha512-SEQu7vl8KjNL2eoGBLF3+wAjpsNfA9XMlXAYj/3EdaNfAlxKthD1xjEQfGOUhllCGGJVNY34bRr6lPINhNjyZw==
 
-husky@^5.1.3:
-  version "5.1.3"
-  resolved "https://registry.yarnpkg.com/husky/-/husky-5.1.3.tgz#1a0645a4fe3ffc006c4d0d8bd0bcb4c98787cc9d"
-  integrity sha512-fbNJ+Gz5wx2LIBtMweJNY1D7Uc8p1XERi5KNRMccwfQA+rXlxWNSdUxswo0gT8XqxywTIw7Ywm/F4v/O35RdMg==
+husky@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/husky/-/husky-6.0.0.tgz#810f11869adf51604c32ea577edbc377d7f9319e"
+  integrity sha512-SQS2gDTB7tBN486QSoKPKQItZw97BMOd+Kdb6ghfpBc0yXyzrddI0oDV5MkDAbuB4X2mO3/nj60TRMcYxwzZeQ==
 
 iconv-lite@0.4.24:
   version "0.4.24"
@@ -2571,10 +2579,10 @@ natural-compare@^1.4.0:
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=
 
-nested-rules-engine@1.1.140:
-  version "1.1.140"
-  resolved "https://registry.yarnpkg.com/nested-rules-engine/-/nested-rules-engine-1.1.140.tgz#21d1907392cd1217ad40c30f0d210cdadc412f5b"
-  integrity sha512-AqsIHG8+tJPzIhbVn5icNX8LE+mRWja+AFr+zd/OrmhoBCD/HzE/qwibnt+VBU2V7pIHIG1a/r+c0FvypzIzKA==
+nested-rules-engine@1.1.142:
+  version "1.1.142"
+  resolved "https://registry.yarnpkg.com/nested-rules-engine/-/nested-rules-engine-1.1.142.tgz#ab2a7e6ff8fe86d4ec38fc989317ea7e0f8162e1"
+  integrity sha512-xKu4b6mum5pVuzx6tL8QalDsi2mJAOTE4V4Fs/OnbECfiTJAnviiGgLbMpCkrsZtWH5zq/XVSdW1vNUu5/BV5A==
 
 nice-try@^1.0.4:
   version "1.0.5"
@@ -2806,10 +2814,10 @@ prelude-ls@~1.1.2:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
   integrity sha1-IZMqVJ9eUv/ZqCf1cOBL5iqX2lQ=
 
-prettier@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.2.1.tgz#795a1a78dd52f073da0cd42b21f9c91381923ff5"
-  integrity sha512-PqyhM2yCjg/oKkFPtTGUojv7gnZAoG80ttl45O6x2Ug/rMJw4wcc9k6aaf2hibP7BGVCCM33gZoGjyvt9mm16Q==
+prettier@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.0.tgz#b6a5bf1284026ae640f17f7ff5658a7567fc0d18"
+  integrity sha512-kXtO4s0Lz/DW/IJ9QdWhAf7/NmPWQXkFr/r/WkR3vyI+0v8amTDxiaQSLzs8NBlytfLWX/7uQUMIW677yLKl4w==
 
 pretty-format@^26.6.2:
   version "26.6.2"
