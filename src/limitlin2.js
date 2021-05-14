@@ -25,22 +25,6 @@ p.addRow(
   },
   { color: "red" }
 );
-p.addRow(
-  {
-    Index: 4,
-    right_align_text: "I would like some cyan wine please",
-    green: 10.212,
-  },
-  { color: "cyan" }
-);
-p.addRow(
-  {
-    Index: 8,
-    right_align_text: "I would like some gelb bananen bitte",
-    green: 100,
-  },
-  { color: "yellow" }
-);
 
 // print
 p.printTable();
