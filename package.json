@@ -1,6 +1,6 @@
 {
   "name": "my-npm-packages-tester",
-  "version": "0.0.329",
+  "version": "0.0.330",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "husky": "^6.0.0",
-    "jest": "^27.0.3",
+    "jest": "^27.0.4",
     "prettier": "^2.3.0",
     "pretty-quick": "^3.1.0",
     "ts-node": "^10.0.0"
