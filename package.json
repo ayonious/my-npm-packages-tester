@@ -1,6 +1,6 @@
 {
   "name": "my-npm-packages-tester",
-  "version": "0.0.339",
+  "version": "0.0.340",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",
-    "console-table-printer": "2.10.0",
+    "console-table-printer": "2.9.0",
     "nested-rules-engine": "1.1.142",
     "simple-wcswidth": "^1.0.1"
   },
