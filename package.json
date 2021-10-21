@@ -1,6 +1,6 @@
 {
   "name": "my-npm-packages-tester",
-  "version": "0.0.355",
+  "version": "0.0.356",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
     "jest": "^27.3.1",
     "prettier": "^2.4.1",
     "pretty-quick": "^3.1.1",
-    "ts-node": "^10.3.0"
+    "ts-node": "^10.3.1"
   }
 }
