@@ -4,6 +4,8 @@ describe('Example: Print a simple Table without table instance creation', () => 
   it(`complex tables`, function () {
     //Create a table
 
+    
+
     const t = new Table({
       columns: [
         { name: 'column1', alignment: 'left', color: 'red' }, //with alignment and color
