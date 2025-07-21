@@ -3,6 +3,7 @@
   "version": "0.0.450",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "format": "prettier --write \"**/*.{json,md,ts,tsx,yml,js,jsx}\""
