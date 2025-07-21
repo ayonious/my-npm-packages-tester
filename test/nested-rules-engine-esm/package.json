@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "name": "nested-rules-engine-esm-tests",
+  "version": "1.0.0",
+  "description": "ECMAScript module tests for nested-rules-engine"
+} 

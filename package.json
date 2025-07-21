@@ -12,12 +12,12 @@
   "dependencies": {
     "chalk": "^5.4.1",
     "console-table-printer": "^2.14.6",
-    "nested-rules-engine": "1.1.143",
+    "nested-rules-engine": "1.2.0",
     "simple-wcswidth": "^1.1.2"
   },
   "devDependencies": {
     "husky": "^9.1.7",
-    "jest": "^30.0.3",
+    "jest": "^30.0.4",
     "prettier": "^3.6.2",
     "pretty-quick": "^4.2.2",
     "ts-node": "^10.9.2"
