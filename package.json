@@ -13,7 +13,7 @@
   "dependencies": {
     "chalk": "^5.4.1",
     "console-table-printer": "^2.14.6",
-    "nested-rules-engine": "1.2.3",
+    "nested-rules-engine": "1.2.4",
     "simple-wcswidth": "^1.1.2"
   },
   "devDependencies": {
