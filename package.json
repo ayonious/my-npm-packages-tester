@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.4.1",
+    "chalk": "^5.5.0",
     "console-table-printer": "^2.14.6",
-    "nested-rules-engine": "1.2.5",
+    "nested-rules-engine": "1.2.6",
     "simple-wcswidth": "^1.1.2"
   },
   "devDependencies": {
