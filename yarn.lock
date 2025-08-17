@@ -1038,10 +1038,10 @@ chalk@^4.1.2:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-chalk@^5.4.1:
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/chalk/-/chalk-5.4.1.tgz#1b48bf0963ec158dce2aacf69c093ae2dd2092d8"
-  integrity sha512-zgVZuo2WcZgfUEmsn6eO3kINexW8RAE4maiQ8QNs8CtpPCSyMiYsULR3HQYkm3w8FIA3SberyMJMSldGsW+U3w==
+chalk@^5.6.0:
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-5.6.0.tgz#a1a8d294ea3526dbb77660f12649a08490e33ab8"
+  integrity sha512-46QrSQFyVSEyYAgQ22hQ+zDa60YHA4fBstHmtSApj1Y5vKtG27fWowW03jCk5KcbXEWPZUIR894aARCA/G1kfQ==
 
 char-regex@^1.0.2:
   version "1.0.2"
@@ -1946,10 +1946,10 @@ natural-compare@^1.4.0:
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==
 
-nested-rules-engine@1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/nested-rules-engine/-/nested-rules-engine-1.2.5.tgz#b24e47ece59d351846d222054dc760a122268b75"
-  integrity sha512-rU0MWActP6GSvfWbDMF0LILN26eTmRlU3D2pbB+Tq13jGRiK0IXo84VwMkc2Y6jc8qlkJPqdTJ8VYg29N/wLpQ==
+nested-rules-engine@1.2.6:
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/nested-rules-engine/-/nested-rules-engine-1.2.6.tgz#b3be1d11dd9c19c05e599501b53927ef12fe368b"
+  integrity sha512-0z5E4LH8hzhGPkaZOlOHDNVNK2GCwoKk+ZoaV3EPfY7p+Vf8WKE1YOKg6rni0//zv32d6uwQeN1NxwM7VSNfDg==
 
 node-int64@^0.4.0:
   version "0.4.0"
