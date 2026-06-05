@@ -1,4 +1,4 @@
-import { executeEngine } from 'nested-rules-engine';
+const { executeEngine } = require('nested-rules-engine');
 
 describe('Nested Rules Engine Complex Scenarios', () => {
   describe('Deep nested rules with multiple conditions', () => {

@@ -1,4 +1,4 @@
-import { executeEngine } from 'nested-rules-engine';
+const { executeEngine } = require('nested-rules-engine');
 
 describe('Example: Print a simple Table without table instance creation', () => {
   it(`simple print`, function() {
