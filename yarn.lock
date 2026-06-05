@@ -1936,10 +1936,10 @@ natural-compare@^1.4.0:
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==
 
-nested-rules-engine@1.2.7:
-  version "1.2.7"
-  resolved "https://registry.yarnpkg.com/nested-rules-engine/-/nested-rules-engine-1.2.7.tgz#9aabac727b971e255c4ddfd8e374b28ef6c0169e"
-  integrity sha512-9+/n3eRTuDFli07dcaT/3kzphkSISi3exI7yWnFY1A6qV/J3mhkEqQZIqb7Hr/Ym5nsNcCzD0Pzv89KQCk0KkQ==
+nested-rules-engine@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/nested-rules-engine/-/nested-rules-engine-3.0.0.tgz#42f1c7005fceeead447819bde1b517d0b12107bd"
+  integrity sha512-iQa5rOWp5M/uRsz9HveGF68aRE2jpbGAQZKWVExvnyMk/Z619aKNn5S5wzKoos/qCBHPmw+SxOJY/hIBlWghSw==
 
 node-int64@^0.4.0:
   version "0.4.0"
