@@ -1,7 +1,5 @@
 # 🔬👷 Testing all my npm packages
 
-[![CircleCI](https://circleci.com/gh/ayonious/my-npm-packages-tester.svg?style=svg)](https://circleci.com/gh/ayonious/my-npm-packages-tester)
-
 > Testing all my npm packages directly downloading them from npmjs. Nothing better than a real end to end testing.
 
 ## How this works
