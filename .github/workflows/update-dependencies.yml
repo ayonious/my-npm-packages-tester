@@ -72,8 +72,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v5
-        with:
-          ref: ${{ github.event.inputs.branch-name || 'deps/update-all-dependencies' }}
 
       - name: Download updated package files
         uses: actions/download-artifact@v4
@@ -111,8 +109,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v5
-        with:
-          ref: ${{ github.event.inputs.branch-name || 'deps/update-all-dependencies' }}
 
       - name: Download updated package files
         uses: actions/download-artifact@v4
